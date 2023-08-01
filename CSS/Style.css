@@ -1,0 +1,16 @@
+.head{ font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background-color: beige;
+    border-top-style: dotted;
+    
+}
+.head1{
+    font: 1em sans-serif;
+    background-color: aqua;
+    border: 2cm;
+    border-left: 2px;
+    } 
+    .b{
+        font-size: x-large;
+        color: brown;
+    }

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8>"
+    <meta name="veiwport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+    </head>
+    <body> There are over seven hundred programming languague.Below are some of the most used programming languagues and thier functions.
+    </body>
+    <table>
+        <thead>
+            <tr>
+                <th>s\n</th>
+                <th> programming languague</th>
+                </tr>
+                </thead>
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>Java script</td>
+            </tr>
+            <tr>
+            <td>2</td>
+            <td>Python</td>
+            </tr>
+                <tr>
+                    <td >3</td>
+                    <td>Java</td>
+                </tr>
+                <tr>
+                <td>4</td>
+                <td>Golang</td>
+            </tr
+        </tbody>
+    
+        </table>
